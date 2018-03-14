@@ -1,4 +1,5 @@
 # MB-159-Game-Dev-16-30
+Сайт https://nesqvic.github.io/MB-159-Game-Dev-Wed-16-30/
 ## DONE
 1. Hello world
 1. Отдельный файл
