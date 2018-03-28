@@ -13,8 +13,7 @@
 1. https://htmlacademy.ru/
   
 ## Homework
-* Пройти час кода за все классы
-* Пройти демо весию Lightbot
+* https://metanit.com/web/javascript/ Прочитать первую главу
   
 ## TODO
 * Переменные
