@@ -3,7 +3,7 @@
 ## DONE
 1. Hello world
 1. Отдельный файл
-1.
+1. 
   
 ## Полезные материалы
 1. https://codecombat.com/
