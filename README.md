@@ -8,6 +8,8 @@
 1. Арифметические операции
 1. Перезапись переменных
 1. Создание тегов
+1. Ветвление
+1. switch & ternary
   
 ## Полезные материалы
 1. https://codecombat.com/
@@ -17,13 +19,15 @@
 1. https://htmlacademy.ru/
   
 ## Homework
-* https://metanit.com/web/javascript/ Прочитать вторую главу
+1. https://metanit.com/web/javascript/ Прочитать третью главу
   
 ## TODO
-* Ветвление
-* switch & ternary
-* Циклы
-* Функции
-* Интерфейс калькулятора
-* Калькулятор
-* Игра
+1. while
+1. do while
+1. for
+1. Массивы
+1. foreach
+1. Функции
+1. Интерфейс калькулятора
+1. Калькулятор
+1. Игра
