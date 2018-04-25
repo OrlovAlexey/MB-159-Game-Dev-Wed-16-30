@@ -24,7 +24,7 @@
   
 ## Homework
 1. https://metanit.com/web/javascript/ Повторить три главы
-1. https://www.w3resource.com/javascript-exercises/javascript-basic-exercises.php первые 25 задач
+1. https://www.w3resource.com/javascript-exercises/javascript-conditional-statements-and-loops-exercises.php
   
 ## TODO
 1. Массивы
