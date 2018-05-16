@@ -14,6 +14,7 @@
 1. do while
 1. for
 
+
 ## Полезные материалы
 1. https://codecombat.com/
 1. https://metanit.com/web/javascript/
@@ -28,7 +29,6 @@
   
 ## TODO
 1. Массивы
-1. foreach
 1. Функции
 1. Интерфейс калькулятора
 1. Калькулятор
